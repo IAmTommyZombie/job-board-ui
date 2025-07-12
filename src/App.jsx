@@ -10,7 +10,7 @@ function App() {
   const [darkMode, setDarkMode] = useDarkMode();
 
   return (
-    <Router basename="/job-board-ui">
+    <div basename="/job-board-ui">
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
         <header className="bg-white dark:bg-gray-800 shadow p-4">
           <div className="max-w-6xl mx-auto flex justify-between items-center">
@@ -40,7 +40,7 @@ function App() {
           <Route path="/saved" element={<SavedJobs />} />
         </Routes>
       </div>
-    </Router>
+    </div>
   );
 }
 
