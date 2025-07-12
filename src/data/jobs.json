@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Engineer",
+    "company": "TechNova",
+    "location": "Remote",
+    "salary": "$90,000 - $120,000",
+    "type": "Full-time",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "description": "We are looking for a skilled Frontend Engineer to join our dynamic team. You will be responsible for developing and maintaining high-quality, reusable UI components using React and TypeScript. Collaborate closely with UX designers and backend engineers to deliver seamless user experiences. Ideal candidates have a strong understanding of responsive design, performance optimization, and modern frontend tooling.",
+    "about": "TechNova is a fast-growing technology company focused on delivering innovative solutions to clients worldwide.",
+    "responsibilities": [
+      "Develop and maintain reusable UI components.",
+      "Collaborate with UX and backend teams.",
+      "Optimize web applications for maximum speed and scalability.",
+      "Write clean, maintainable code with proper documentation."
+    ],
+    "requirements": [
+      "3+ years experience in frontend development.",
+      "Strong knowledge of React, TypeScript, and Tailwind CSS.",
+      "Experience with REST APIs and Git.",
+      "Good problem-solving skills and attention to detail."
+    ],
+    "benefits": [
+      "Fully remote work environment.",
+      "Flexible working hours.",
+      "Health insurance and 401(k)."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 18,
+      "views": 143,
+      "postedAt": "2025-07-04"
+    }
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "DesignCo",
+    "location": "New York, NY",
+    "salary": "$70,000 - $90,000",
+    "type": "Full-time",
+    "tags": ["Figma", "Accessibility", "Prototyping"],
+    "description": "DesignCo is seeking a creative UI/UX Designer to craft intuitive and accessible user interfaces. You'll work closely with product managers and engineers to transform concepts into pixel-perfect designs, conduct user research, and ensure compliance with accessibility standards.",
+    "about": "DesignCo is a leading design agency committed to creating impactful user experiences.",
+    "responsibilities": [
+      "Create wireframes, prototypes, and high-fidelity designs.",
+      "Collaborate with engineering and product teams.",
+      "Conduct user research and usability testing.",
+      "Ensure accessibility and responsive design compliance."
+    ],
+    "requirements": [
+      "Strong portfolio demonstrating UI/UX design skills.",
+      "Proficiency with Figma and Adobe XD.",
+      "Knowledge of WCAG accessibility standards.",
+      "Excellent communication and teamwork skills."
+    ],
+    "benefits": [
+      "Competitive salary.",
+      "Paid time off and holidays.",
+      "Professional development opportunities."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 23,
+      "views": 198,
+      "postedAt": "2024-07-05"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Junior Web Developer",
+    "company": "DevStart",
+    "location": "Boston, MA",
+    "salary": "$80,000 - $100,000",
+    "type": "Full-time",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "description": "Support senior developers in building responsive web apps. Learn best practices and contribute to frontend and backend tasks in an agile environment.",
+    "about": "DevStart is a startup providing custom software solutions for local businesses.",
+    "responsibilities": [
+      "Assist in coding and testing web applications.",
+      "Fix bugs and improve application performance.",
+      "Work under guidance of senior developers.",
+      "Participate in code reviews."
+    ],
+    "requirements": [
+      "Basic understanding of HTML, CSS, and JavaScript.",
+      "Eagerness to learn and grow as a developer.",
+      "Good communication skills.",
+      "Ability to work in a team."
+    ],
+    "benefits": [
+      "Mentorship program.",
+      "Flexible hours.",
+      "Opportunity for growth."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 12,
+      "views": 86,
+      "postedAt": "2024-07-02"
+    }
+  },
+  {
+    "id": 4,
+    "title": "React Native Developer",
+    "company": "MobileGenius",
+    "location": "San Francisco, CA",
+    "salary": "$65,000 - $75,000",
+    "type": "Full-time",
+    "tags": ["React Native", "Expo", "Mobile"],
+    "description": "Build and maintain cross-platform mobile apps with React Native. Collaborate with designers and backend developers to deliver high-quality mobile experiences.",
+    "about": "MobileGenius specializes in innovative mobile solutions for clients worldwide.",
+    "responsibilities": [
+      "Develop and maintain React Native applications.",
+      "Write clean and efficient code.",
+      "Collaborate on app design and user experience.",
+      "Fix bugs and optimize performance."
+    ],
+    "requirements": [
+      "2+ years React Native development experience.",
+      "Familiarity with Expo and mobile build processes.",
+      "Understanding of native mobile capabilities.",
+      "Strong debugging skills."
+    ],
+    "benefits": [
+      "Remote-friendly company.",
+      "Competitive compensation.",
+      "Health benefits."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 14,
+      "views": 101,
+      "postedAt": "2024-07-01"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Accessibility Engineer",
+    "company": "InclusiveTech",
+    "location": "Remote",
+    "salary": "$50,000 - $60,000",
+    "type": "Full-time",
+    "tags": ["WCAG", "ARIA", "JavaScript"],
+    "description": "Ensure web experiences are accessible to all users by implementing and testing WCAG and ARIA standards across all products.",
+    "about": "InclusiveTech is dedicated to making technology accessible for everyone.",
+    "responsibilities": [
+      "Audit web applications for accessibility issues.",
+      "Implement ARIA roles and best practices.",
+      "Work with teams to fix accessibility bugs.",
+      "Stay updated on accessibility guidelines."
+    ],
+    "requirements": [
+      "Experience with WCAG 2.1 standards.",
+      "Proficiency in JavaScript and frontend testing.",
+      "Familiarity with screen readers and assistive tech.",
+      "Strong communication skills."
+    ],
+    "benefits": [
+      "Fully remote work.",
+      "Flexible schedule.",
+      "Supportive and inclusive environment."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 9,
+      "views": 72,
+      "postedAt": "2024-07-03"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Frontend Tech Lead",
+    "company": "VisionaryApps",
+    "location": "Seattle, WA",
+    "salary": "$100,000 - $130,000",
+    "type": "Full-time",
+    "tags": ["Leadership", "React", "Testing"],
+    "description": "Lead a team of frontend developers to ship high-quality features, establish best practices, and maintain a scalable codebase.",
+    "about": "VisionaryApps builds cutting-edge software solutions for enterprise clients.",
+    "responsibilities": [
+      "Mentor and guide frontend engineers.",
+      "Define architecture and coding standards.",
+      "Review code and manage releases.",
+      "Collaborate with cross-functional teams."
+    ],
+    "requirements": [
+      "5+ years frontend experience with React.",
+      "Proven leadership skills.",
+      "Experience with automated testing.",
+      "Excellent communication."
+    ],
+    "benefits": ["Competitive salary.", "Health insurance.", "Stock options."],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 11,
+      "views": 119,
+      "postedAt": "2024-06-29"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Email Developer",
+    "company": "MarketingNinja",
+    "location": "Austin, TX",
+    "salary": "$45,000 - $60,000",
+    "type": "Full-time",
+    "tags": ["HTML", "Litmus", "Email"],
+    "description": "Build responsive and branded HTML emails that render correctly across all major email clients.",
+    "about": "MarketingNinja specializes in data-driven email campaigns.",
+    "responsibilities": [
+      "Develop and test HTML emails.",
+      "Ensure cross-client compatibility.",
+      "Work with marketing team on designs.",
+      "Optimize emails for deliverability."
+    ],
+    "requirements": [
+      "Strong HTML and CSS skills.",
+      "Experience with Litmus or similar.",
+      "Attention to detail.",
+      "Good teamwork skills."
+    ],
+    "benefits": [
+      "Fun, casual environment.",
+      "Flexible hours.",
+      "Remote work possible."
+    ],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 6,
+      "views": 54,
+      "postedAt": "2024-06-28"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Design Systems Engineer",
+    "company": "ComponentHub",
+    "location": "Remote",
+    "salary": "$120,000 - $150,000",
+    "type": "Full-time",
+    "tags": ["Storybook", "Tailwind", "TypeScript"],
+    "description": "Build and document reusable UI components across products, maintaining design consistency and developer productivity.",
+    "about": "ComponentHub is a remote-first company focusing on scalable design systems.",
+    "responsibilities": [
+      "Create reusable UI components in React and TypeScript.",
+      "Document components in Storybook.",
+      "Collaborate with designers and developers.",
+      "Maintain design consistency across apps."
+    ],
+    "requirements": [
+      "Experience with React and TypeScript.",
+      "Familiarity with Storybook.",
+      "Good communication skills.",
+      "Remote work discipline."
+    ],
+    "benefits": ["Fully remote.", "Flexible schedule.", "Competitive pay."],
+    "applyLink": "#",
+    "stats": {
+      "applicantsToday": 17,
+      "views": 134,
+      "postedAt": "2024-07-06"
+    }
+  }
+]
