@@ -110,7 +110,7 @@ const JobModal = ({ job, onClose }) => {
               )}
             </div>
 
-            {/* Sticky Apply Button */}
+            {/* Apply Button */}
             <div className="sticky bottom-0 left-0 bg-white dark:bg-gray-800 border-t dark:border-gray-700 mt-6 pt-4 flex justify-end">
               <a
                 href={job.applyLink || "#"}

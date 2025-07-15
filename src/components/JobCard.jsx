@@ -24,7 +24,6 @@ const JobCard = ({ job }) => {
     localStorage.setItem("savedJobs", JSON.stringify(updatedSaved));
   };
 
-  // Format postedAt date nicely
   const formatDate = (dateString) => {
     if (!dateString) return null;
     const options = { year: "numeric", month: "short", day: "numeric" };
@@ -47,7 +46,7 @@ const JobCard = ({ job }) => {
       className="relative bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 
                  rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 cursor-pointer p-6 mb-5"
     >
-      {/* Save bookmark icon */}
+      {/* Save/Bookmark */}
       <button
         onClick={toggleSave}
         aria-label={isSaved ? "Unsave job" : "Save job"}
@@ -59,19 +58,15 @@ const JobCard = ({ job }) => {
       </button>
 
       <Link to={`/jobs/${job.id}`} className="block space-y-2">
-        {/* Job Title */}
         <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200">
           {job.title}
         </h2>
-
-        {/* Company and Location */}
         <div className="flex flex-wrap items-center text-gray-600 dark:text-gray-400 text-sm font-medium space-x-2">
           <span>{job.company}</span>
           <span className="mx-1">·</span>
           <span>{job.location}</span>
         </div>
 
-        {/* Posted date + New badge */}
         {job.stats?.postedAt && (
           <p className="text-xs text-gray-500 dark:text-gray-400 mt-1 select-none flex items-center gap-2">
             <span>Posted: {formatDate(job.stats.postedAt)}</span>
@@ -83,7 +78,6 @@ const JobCard = ({ job }) => {
           </p>
         )}
 
-        {/* Salary and Type badges */}
         <div className="flex flex-wrap items-center gap-3 mt-2">
           {job.salary && (
             <span className="bg-green-100 dark:bg-green-800 text-green-800 dark:text-green-200 text-xs font-semibold px-3 py-1 rounded-full select-none">
@@ -97,7 +91,6 @@ const JobCard = ({ job }) => {
           )}
         </div>
 
-        {/* Benefits badges */}
         {job.benefits && job.benefits.length > 0 && (
           <div className="flex flex-wrap gap-2 mt-3">
             {job.benefits.map((benefit, index) => (
